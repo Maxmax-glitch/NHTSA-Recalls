@@ -14,7 +14,7 @@ What is a Recall?
     or product defects that might endanger the consumer or put the maker/seller at risk of legal action."
     https://en.wikipedia.org/wiki/Product_recall
     
-    Note: In this context it is meant in regards to vehicle recalls in the United States, where specific rules apply.
+    In this context it is meant in regards to vehicle recalls in the United States, where specific rules apply.
     
 What is the NHTSA Recalls Dataset?
     'Manufacturers who determine that a product or piece of original equipment either has a safety defect, 
